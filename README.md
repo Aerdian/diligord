@@ -1,3 +1,12 @@
+---
+title: diligord
+description: color scheme for terminal emulators
+author: Ian Cox
+created:  2019 Dec 31
+modified: 2019 Dec 31
+
+---
+
 # diligord
 
 Diligord is a color scheme built for use in terminal emulators and many other cases.
