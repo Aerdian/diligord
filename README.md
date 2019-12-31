@@ -11,7 +11,7 @@ modified: 2019 Dec 31
 
 Diligord is a color scheme built for use in terminal emulators and many other cases.
 
-[![diligord-example](DiligordExample.png)]
+(DiligordExample.png)
 
 ### Installation
 Installing and using this color scheme is super easy. After downloading and extracting the .zip archive, select
