@@ -13,7 +13,7 @@ Diligord is a color scheme built for use in terminal emulators and many other ca
 
 ### Installation
 Installing and using this color scheme is super easy. After downloading and extracting the .zip archive, select
-your terminal emulator or the format you would like to use. Each folder has a basic text document and you can
+your terminal emulator or the format you would like to use. Most of them use basic text documents and you can
 copy and paste the text into your config file to use the color scheme.
 
 ## Supported Emulators
