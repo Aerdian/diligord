@@ -7,15 +7,15 @@ cursor          = #ffffff
 background      = #2c363f
 
 # black
-color0  = #191f26
+color0  = #4a535d
 color8  = #8daa9d
 
 # red
-color1  = #1f272e
+color1  = #4c575f
 color9  = #657ed4
 
 # green
-color2  = #293138
+color2  = #5f6a74
 color10 = #dc6b7b
 
 # yellow

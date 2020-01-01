@@ -1,9 +1,9 @@
 #!/bin/sh
 if [ "$TERM" = "linux" ]; then
   /bin/echo -e "
-  \e]P0191f26
-  \e]P11f272e
-  \e]P2293138
+  \e]P04a535d
+  \e]P14c575f
+  \e]P25f6a74
   \e]P3718298
   \e]P4626c7a
   \e]P57e8794

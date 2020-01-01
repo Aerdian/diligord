@@ -6,9 +6,9 @@ colors:
 
   # Normal colors
   normal:
-    black:   '0x191f26'
-    red:     '0x1f272e'
-    green:   '0x293138'
+    black:   '0x4a535d'
+    red:     '0x4c575f'
+    green:   '0x5f6a74'
     yellow:  '0x718298'
     blue:    '0x626c7a'
     magenta: '0x7e8794'

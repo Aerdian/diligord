@@ -1,11 +1,11 @@
 BackgroundColour=44,54,63
 ForegroundColour=255,255,255
 CursorColour=255,255,255
-Black=25,31,38
+Black=74,83,93
 BoldBlack=141,170,157
-Red=31,39,46
+Red=76,87,95
 BoldRed=101,126,212
-Green=41,49,56
+Green=95,106,116
 BoldGreen=220,107,123
 Yellow=113,130,152
 BoldYellow=86,71,135
