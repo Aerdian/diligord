@@ -3,7 +3,7 @@ title: diligord
 description: color scheme for terminal emulators
 author: Ian Cox
 created:  2019 Dec 31
-modified: 2019 Dec 31
+modified: 2020 Jan 01
 
 ---
 
